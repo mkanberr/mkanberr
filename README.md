@@ -13,7 +13,6 @@
   />
 </p>
 
-## 🔥 Contribution Heatmap
 <p align="center">
 <img src="https://ghchart.rshah.org/mkanberr?color=00CFFF" alt="mkanberr's Contribution Graph" width="100%" />
 </p>
