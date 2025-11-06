@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/mkanberr?theme=dark" alt="mkanberr's Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/26a641/mkanberr" alt="mkanberr's Contribution Graph" width="100%" />
 </p>
 
 ---
